@@ -1,0 +1,8 @@
+﻿# bỏ qua tất cả tập tin trong thư mục build/
+#obj/Debug/
+#bo qua 2
+#obj/Debug/TempPE
+#bo qua 3
+obj/
+#loai bi gitignore
+.gitignore
